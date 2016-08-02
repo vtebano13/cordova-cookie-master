@@ -1,4 +1,8 @@
-IMPORTANT: This plugin is no longer maintained. It is possible that some functionality may be deprecated in newer target SDKs.
+Change Log
+=============
+
+V1.0.2
+Remove the import directive to fix the outdated dependency and compilation error caused by Apache cookie class.
 
 Cookie Master
 ==============
@@ -57,4 +61,6 @@ cookieMaster.clearCookies(
 This plugin is distributed under the MIT License.
 
 ## Thanks to
+This plugin is a fork from Kristian Hristov's "cookie master" plugin. The author is not maintaining the plugin, so I created a new branch to include fixes and support to new OS versions.
+
 This plugin was inspired by the great work on the CookieMonster plugin by @barrettc
