@@ -1,0 +1,24 @@
+{
+  "name": "cordova-cookie-master",
+  "version": "1.0.5",
+  "description": "",
+  "cordova": {
+    "id": "cordova-plugin-crosswalk-webview",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crosswalk-project/cordova-plugin-crosswalk-webview.git"
+  },
+  "keywords": [
+    "cordova",
+    "cookie",
+    "clear cookie",
+    "set cookie",
+    "cordova-android"
+  ],  
+  },
+  "homepage": "https://github.com/vtebano13/cordova-cookie-master"
+}
